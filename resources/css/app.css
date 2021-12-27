@@ -1,0 +1,6 @@
+@import"~bootstrap/dist/css/bootstrap";
+@import"style";
+@import"mediaqueries";
+@import"~dropzone/dist/basic";
+@import"~dropzone/dist/dropzone";
+@import"~flag-icon-css/css/flag-icons";

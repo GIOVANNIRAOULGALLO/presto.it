@@ -1,0 +1,140 @@
+/* font */
+* {
+    font-family: 'Signika', sans-serif;
+}
+/*  */
+
+
+/* general */
+.first-color { 
+    background: #233142; 
+}
+
+.second-color { 
+    background: #455d7a; 
+}
+
+.third-color { 
+    background: #f95959; 
+}
+
+.fourth-color { 
+    background: #e3e3e3; 
+}
+
+.fifth-color{
+   background: #8C3E3E;
+}
+
+.sixth-color{
+    background: #592525;
+}
+
+.text-area-measure{
+    height: 200px;
+    width: 100%;
+    resize: none;
+}
+
+/* chiusura general */
+
+
+/* nav */
+.navbar-presto .nav-link {
+color: white;
+
+}
+
+.navbar-presto .navbar-brand{
+    margin-left: 0.5rem;
+}
+
+/*  */
+
+
+
+/* welcome */
+.card-welcome{
+    width: 300px;
+    height: 500px;
+    border-radius: 3rem;
+    border: 2px solid gray;
+}
+
+.button-revisor{
+border-radius: 50%;
+width: 30px;
+height: 30px;
+text-align: center;
+justify-content: center;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+}
+
+
+.presto-musthead{
+    height: 400px;
+    background: linear-gradient(rgba(110, 109, 134, 0.4) ,rgba(128, 128, 128, 0.4)), url('/img/donnafelice.jpg')  ;
+    display: flex;
+    background-size:cover;
+    align-items:center;
+    /* padding-top:15px; */
+    background-position: bottom 60% left;
+}
+
+
+.welcome-subtitle{
+    color: white;
+    text-shadow: 1px 1px 1px #233142;
+    font-size: 45px;
+}
+.img-welcome{
+   fill-opacity: white;
+}
+
+.btn-presto-category{
+    height: 50px;
+    width: 130px;
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    /* padding-bottom: 20px; */
+    box-shadow: 2px 2px 2px #233142;
+    position: relative;
+}
+
+.img-card{
+    top: 5px;
+    left: 2px;
+    position: absolute;
+}
+.description-section{
+    height: 50px;
+    overflow-y:hidden;
+}
+
+/* INPUT     */
+
+.input-border{
+    border: 2px solid #233142 ;
+}
+.text-first-color{
+    color:#233142;
+}
+
+
+
+/* FOOTER */
+
+.presto-footer{
+    height: 250px;
+    background-color: #233142;
+}
+
+.icon{
+    color:white;
+    /* margin-right: 30px; */
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width:1024px) and (max-width:768px) {
+    .presto-musthead{
+        height: auto;
+    }
+    .logo-welcome{
+        position: relative;
+        right: 20px;
+        height: 100px;
+        width: 100px;
+    }
+    .etichetta-presto-welcome{
+        position: relative;
+        height: auto;
+        width:  auto;
+    }
+}
+@media screen and (max-width:768px) {
+    .presto-musthead{
+        height: auto;
+    }
+    .logo-welcome{
+        position: relative;
+        height: auto;
+        width: auto;
+    }
+    .img-welcome{
+        position: relative;
+        height: auto;
+        width:  auto;
+    }
+    .card-welcome{
+        padding: 20px;
+        height: auto;
+        width: auto;
+    }
+    .presto-footer{
+        height: auto;
+    }
+}
+
+
